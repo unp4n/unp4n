@@ -1,16 +1,23 @@
-## Hi there 👋
+# Que onda, me llamo Karol mucho gusto👋
 
-<!--
-**unp4n/unp4n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Cosas sobre mí
+- 🎓 Estudio Ingeniería de Software en la Facultad de Ingeniería Electromecánica
+- 📍 Soy de Manzanillo,Colima
+- 🌱 Actualmente estoy aprendiendo lenguaje en C y pseudocódigo en PseInt 
+- 🎯 Mi meta es aprender varios lenguajes de programación y desarrollar mis propios videojuegos
 
-Here are some ideas to get you started:
+## Lo que me gusta
+- Aprender sobre la programacion
+- Jugar videojuegos
+- Escuchar musica
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologías que quiero aprender
+ - *Desarrollo de inteligencia artificial*
+ - *Bases de datos*
+ - *Frameworks modernos*
+
+## Mi LinkedIn
+ - **https://www.linkedin.com/in/karol-roberto-7896792b1**
+
+## Contactame
+- 📧 knavarro10@ucol.mx
